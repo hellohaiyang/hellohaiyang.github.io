@@ -37,6 +37,8 @@ https://github.com/hellohaiyang/hellohaiyang.github.io/blob/master/_posts/OIP.jp
 
 111111
 
+![网络图片](https://github.com/hellohaiyang/hellohaiyang.github.io/blob/master/_posts/OIP.jpg)
+
 '''python
 import os
 '''
