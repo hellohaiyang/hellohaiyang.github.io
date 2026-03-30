@@ -31,6 +31,10 @@ isahidauhdui<br>企鹅哦i建瓯大祭司
 
 ![img](https://github.com/hellohaiyang/hellohaiyang.github.io/_posts/OIP.jpg)
 
+https://github.com/hellohaiyang/hellohaiyang.github.io/blob/master/_posts/OIP.jpg
+
+![img](https://github.com/hellohaiyang/hellohaiyang.github.io/blob/master/_posts/OIP.jpg)
+
 111111
 
 '''python
